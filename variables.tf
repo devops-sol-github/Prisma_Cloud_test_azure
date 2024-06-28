@@ -10,7 +10,7 @@
 
 variable "prefix" {
   description = "This prefix will be included in the name of most resources."
-　default     = "Prisma-Cloud-test-azure"
+　default     = "Prisma"
 }
 
 variable "location" {
